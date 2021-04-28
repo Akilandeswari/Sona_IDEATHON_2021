@@ -1,7 +1,7 @@
 # Sona College of Technology
-# Department of Information Technology
-# MINI-PROJECT HACKATHON 2020
-Welcome to Hackathon!  
+
+# SONA IDEATHON 2021
+Welcome to Ideathon 2021!  
 
 ## Rules
 Kindly go through the [Rules](rules.md) of the Hackathon beforehand.
