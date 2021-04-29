@@ -4,15 +4,15 @@ about: This template should be followed by all the teams to submit their solutio
 
 ---
 
-**Team Name**
+**Team Name:**
 
-**Team ID**
+**Team ID:**
 
-**Team Leader's Name**
+**Team Leader's Name:**
 
-**Team Leader's Contact Number**
+**Team Leader's Contact Number:**
 
-**Team Leader's Mail id**
+**Team Leader's Mail id:**
 
 **Names of the Team Members - Contact Number - Mail id**
 
