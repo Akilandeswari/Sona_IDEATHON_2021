@@ -59,4 +59,4 @@ Round 2 of Competition 2 ends: 12.05.21
 
 Announcement of winners from both competitions: 14.05.2021
 
-**Kindly go through the [Submission Guidelines](submission.md) and [Rules](Rules.md)of the Ideathon beforehand.**
+**Kindly go through the [Submission Guidelines](submission.md) and [Rules](Rules.md) of the Ideathon beforehand.**
