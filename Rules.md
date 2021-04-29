@@ -28,7 +28,7 @@ The team leader should create the above five documents with the names mentioned 
 4. The moble application should not take much space in the mobile while installing.
 5. The user interface should be appealing and with appropriate accessibility features for the use by visually challenged users.
 6. Teams can refer to any resources from Internet which are authentic.
-7. Teams can provide choices in the mobile applciation to navigate to the solutions provided in the different kinds of medicines (Allopathy, Siddha, Ayurvda,...)
+7. Teams can provide choices in the mobile application to navigate to the solutions provided in the different kinds of medicines (Allopathy, Siddha, Ayurvda,...)
 8. Any plagiarism will not be entertained.
 
 ###**Submission documents**###
